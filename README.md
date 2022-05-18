@@ -1,6 +1,5 @@
 # laravel_rss_reader
 
-
 10 年以上前に作った mobile_rss_reader を laravel 勉強がてら移植
 
 [![build and tests](https://github.com/akira345/laravel_rss_reader/actions/workflows/actions.yml/badge.svg)](https://github.com/akira345/laravel_rss_reader/actions/workflows/actions.yml)
