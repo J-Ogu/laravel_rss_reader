@@ -3,12 +3,7 @@ name: build and tests
 on:
   push:
     branches:
-      - main
-      - master
-  pull_request:
-    branches:
-      - main
-      - master
+      - dusk
 
 env:
   LC_ALL: "ja_JP.UTF-8"
